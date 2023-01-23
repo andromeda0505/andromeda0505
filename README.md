@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mojtaba an economist by training (microeconometrician and game theorist), a statistician, and a data scientist; previously working as a Research Associate at [the School of Public Policy](https://www.policyschool.ca/). I am a **Causal Machine Learning** researcher and love to dig deep into various areas of theoretical/applied statistics, especially in the tech industry. In particular, I am passionate about interrelations among A/B testing (randomized control trials and experimentations), causal inference (observational data), and predictive analysis (machine learning, deep learning, and traditional time series forecasting). I also have a thing for complex network systems and online platforms.
+I am Mojtaba, an economist with expertise in microeconometrics and game theory, as well as a statistician and data scientist. I have previously worked as a Research Associate at [the School of Public Policy]((https://www.policyschool.ca/)). My research focus is on **Causal Machine Learning**, and I enjoy exploring various areas of theoretical and applied statistics, particularly within the tech industry. My interests include the interrelationships between A/B testing, causal inference, and predictive analysis, using techniques such as machine learning, deep learning, and traditional time series forecasting. Additionally, I am interested in complex network systems and online platforms.
 
 - 👯 I’m looking to collaborate with similar minds.
 - ✨ I love to play chess, card games, swimming and love cooking.
