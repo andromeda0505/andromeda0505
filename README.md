@@ -2,7 +2,7 @@
 
 I am Mojtaba, an economist with expertise in microeconometrics and game theory, as well as a statistician and data scientist. I have previously worked as a Research Associate at [the School of Public Policy](https://www.policyschool.ca/), now I am a Senior Data Scietist at [Canadian Tire Corporation](https://corp.canadiantire.ca/English/home/default.aspx). My research focus is on **Causal Machine Learning**, and I enjoy exploring various areas of theoretical and applied statistics, particularly within the tech industry. My interests include the interrelationships between A/B testing, causal inference, and predictive analysis, using AI techniques such as machine learning, deep learning, and traditional time series forecasting. Additionally, I am interested in complex network systems and online platforms.
 
-- 👯 I’m looking to collaborate with similar minds.
+- 👯 I'm looking to collaborate with like-minded individuals and learn from diverse perspectives.
 - ✨ I love to play chess, card games, swimming and love cooking.
 
 
