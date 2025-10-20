@@ -10,7 +10,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mojtabaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtabaes/)](https://www.linkedin.com/in/mojtabaes/)
 [![Gmail Badge](https://img.shields.io/badge/-mojtaba.es@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mojtaba.es@gmail.com)](mailto:mojtaba.es@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white=https://twitter.com/moshtabaes/)](https://twitter.com/moshtabaes/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white=https://twitter.com/moshtabaes/)](https://twitter.com/mozh7es/)
 
 
 ## ⚡ Technologies
