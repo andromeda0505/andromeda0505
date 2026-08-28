@@ -1,14 +1,31 @@
 ### Hi there 👋
 
-I am Mojtaba, an economist with expertise in microeconometrics and game theory, as well as a statistician and data scientist. I have previously worked as a Research Associate at [the School of Public Policy](https://www.policyschool.ca/), now I am a Senior Data Scietist at [Canadian Tire Corporation](https://corp.canadiantire.ca/English/home/default.aspx). My research focus is on **Causal Machine Learning**, and I enjoy exploring various areas of theoretical and applied statistics, particularly within the tech industry. My interests include the interrelationships between A/B testing, causal inference, and predictive analysis, using AI techniques such as machine learning, deep learning, and traditional time series forecasting. Additionally, I am interested in complex network systems and online platforms.
+I'm **Mojtaba**, an economist, statistician, and data scientist with a background in **microeconometrics, causal inference, game theory, experimentation, and machine learning**.
 
-- 👯 I'm looking to collaborate with like-minded individuals and learn from diverse perspectives.
-- ✨ I love to play chess, card games, swimming and love cooking.
+My work sits at the intersection of **economics, statistics, and artificial intelligence**, with a particular interest in rigorous methods for **decision-making under uncertainty**. I am especially interested in combining **Causal Machine Learning, Reinforcement Learning (RL), Dynamic Programming (DP), empirical methods, and modern statistical techniques** to study complex decision problems.
+
+My research and technical interests include:
+
+- **Causal Inference & Causal Machine Learning** — treatment-effect estimation, heterogeneous treatment effects, double/debiased machine learning, uplift modeling, instrumental variables, difference-in-differences, and synthetic control.
+- **Experimentation & Decision Science** — A/B testing, experimental design, sequential experimentation, policy evaluation, and the connection between experimentation and optimal decision-making.
+- **Reinforcement Learning & Dynamic Programming** — sequential decision-making, Markov decision processes, contextual bandits, policy learning, and dynamic optimization.
+- **Empirical & Statistical Methods** — econometrics, Bayesian and frequentist inference, predictive modeling, time-series analysis, uncertainty quantification, and statistical learning.
+- **Machine Learning & AI** — supervised and unsupervised learning, recommendation systems, representation learning, and applications of modern AI methods to economic and business problems.
+- **Networks & Online Platforms** — complex networks, marketplace dynamics, recommendation systems, strategic interactions, and the economics of digital platforms.
+
+I have worked across both **academic research and industry**, including the [School of Public Policy](https://www.policyschool.ca/) and [Canadian Tire Corporation](https://corp.canadiantire.ca/English/home/default.aspx), applying statistical, econometric, machine-learning, and experimentation methods to real-world problems.
+
+I am particularly interested in research that connects **prediction, causality, experimentation, and optimization** — moving beyond predicting *what will happen* toward understanding **what actions should be taken, for whom, and under what conditions**.
+
+- 👯 I'm always interested in collaborating on research, open-source projects, and interesting methodological problems.
+- ♟️ Outside of research, I enjoy chess, card and strategy games, swimming, and cooking.
+
+### Connect
+
+Find out more about my work and feel free to connect with me here:
 
 
-Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-mojtabaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtabaes/)](https://www.linkedin.com/in/mojtabaes/)
+[![Linkedin Badge](https://img.shields.io/badge/-mojtabaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mojtabaes/)]
 [![Gmail Badge](https://img.shields.io/badge/-mojtaba.es@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mojtaba.es@gmail.com)](mailto:mojtaba.es@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white=https://twitter.com/moshtabaes/)](https://twitter.com/mozh7es/)
 
